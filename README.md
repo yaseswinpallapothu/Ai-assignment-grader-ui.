@@ -107,10 +107,10 @@ Application deployed using:
 
 ## 👨‍💻 Developer
 
-**Revanth Settipalli**
+**Yaseswini Pallapothu**
 
 GitHub:  
-https://github.com/RevanthSettipalli
+https://github.com/yaseswinpallapothu
 
 ---
 
